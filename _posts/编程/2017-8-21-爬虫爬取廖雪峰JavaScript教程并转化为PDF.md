@@ -3,6 +3,7 @@ layout: post
 title: "爬虫爬取廖雪峰JavaScript教程并转化为PDF"
 date: 2017-08-21
 author: 罗渊
+header-img: "img/sea.jpg"
 tag: spider
 ---
 
