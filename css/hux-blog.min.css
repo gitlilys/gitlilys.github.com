@@ -324,7 +324,7 @@ button.paper-button {
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", STHeiti, "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
+    font-family: 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", STHeiti, "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
     line-height: 1.7;
     font-size: 16px;
     color: #404040;
@@ -335,13 +335,15 @@ p {
     margin: 30px 0
 }
 
-h1,
+h1,{
+
+}
 h2,
 h3,
 h4,
 h5,
 h6 {
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", STHeiti, "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
+    font-family: 'Microsoft YaHei',-apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", STHeiti, "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif;
     line-height: 1.7;
     line-height: 1.1;
     font-weight: 700
@@ -849,7 +851,7 @@ pre code {
     font-family: 'Microsoft YaHei', Lora, 'Times New Roman', serif;
     color: #ccc;
     font-size: 16px;
-    font-style: italic;
+    font-style: normal;
     margin-top: 0
 }
 
@@ -880,7 +882,7 @@ pre code {
 
 .post-content-preview {
     font-size: 13px;
-    font-style: italic;
+    font-style: normal;
     color: #a3a3a3
 }
 
@@ -890,7 +892,7 @@ pre code {
 
 @media only screen and (min-width:768px) {
     .post-content-preview {
-        font-size: 14px
+        font-size: 16px
     }
 }
 
