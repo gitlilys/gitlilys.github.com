@@ -796,7 +796,7 @@ pre code {
   margin-bottom: 10px;
 }
 .post-preview > .post-meta {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Microsoft Yahei','Lora', 'Times New Roman', serif;
   color: #cccccc;
   font-size: 16px;
   font-style: italic;
@@ -846,7 +846,7 @@ pre code {
   text-align: center;
   font-size: 14px;
   padding: 10px;
-  font-style: italic;
+  font-style: normal;
   margin: 0;
   display: block;
   border-bottom-right-radius: 5px;
